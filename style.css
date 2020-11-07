@@ -3,12 +3,47 @@ html {
 }
 
 body {
-
+    background-color: #f3e1ce;
 }
 
 /*Containers*/
+header{
+    padding: 50px 200px;
+    text-align: center;
+}
 
+.sections {
+    border: 4px dotted #2d4342;
+    padding: 40px 200px 60px 200px;
+}
 
+#colorContainers {
+    display: flex;
+    justify-content: space-between;
+}
+
+.swatches {
+    min-width: 200px;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#color1 {
+    background-color: #2d4342;
+    color: lightgray;
+}
+
+#color2 {
+    background-color: #46a5a4;
+}
+
+#color3 {
+    background-color: #ea9364;
+}
+
+#color4 {
+    background-color: #e15754;
+}
 
 /*Fonts Section */
 .font1 {
@@ -32,13 +67,13 @@ body {
 
 h1 {
     font-family: "Georgia";
-    font-size: 26px;
+    font-size: 28px;
     font-weight: 700;
 }
 
 h2 {
     font-family: "Georgia";
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 700;
 }
 
