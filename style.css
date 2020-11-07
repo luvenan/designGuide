@@ -15,6 +15,8 @@ header{
 .sections {
     border: 4px dotted #2d4342;
     padding: 40px 200px 60px 200px;
+    width: 60%;
+    margin: 0 auto;
 }
 
 #colorContainers {
