@@ -1,0 +1,53 @@
+html {
+    font-size: 14px;
+}
+
+body {
+
+}
+
+/*Containers*/
+
+
+
+/*Fonts Section */
+.font1 {
+    font-family: "Georgia";
+}
+
+.font2 {
+    font-family: "Verdana";
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+
+/*Styles Section*/
+
+h1 {
+    font-family: "Georgia";
+    font-size: 26px;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: "Georgia";
+    font-size: 20px;
+    font-weight: 700;
+}
+
+p {
+    font-family: "Verdana";
+    font-weight: 400;
+}
+
+li {
+    font-family: "Verdana";
+    font-weight: 400;
+}
